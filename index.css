@@ -49,9 +49,10 @@
  position:absolute;
  color:white; 
 }
-body{
+body,html{
     background-color: rgb(233, 244, 248);
-    
+	height:100%;
+        width:96%;    
 }
 .mk{
     width:1400px;
